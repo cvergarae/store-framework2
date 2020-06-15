@@ -44,7 +44,7 @@
     "children": [
       "info-card#rethink",
       "flex-layout.col"
-    ],
+    ]
   },
 
   "info-card#rethink": {
