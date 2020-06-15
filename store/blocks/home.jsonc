@@ -46,12 +46,6 @@
       "flex-layout.col"
     ],
   },
-  "flex-layout.col": {
-    "children": [
-      "image#electronic",
-      "image#major-appliance"
-    ]
-  },
 
   "info-card#rethink": {
     "props": {
@@ -62,6 +56,15 @@
       "textPosition": "center"
     }
   },
+  
+
+  "flex-layout.col": {
+    "children": [
+      "image#electronic",
+      "image#major-appliance"
+    ]
+  },
+
   "rich-text#deletar": {
     "props": {
       "text": "I'll be deleted soon"
